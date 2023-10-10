@@ -3,7 +3,7 @@
 In statistics and econometrics, the regression coefficient of a regressor (also known as an independent variable or predictor variable) represents the relationship between that specific regressor and the dependent variable in a regression model. It quantifies the change in the dependent variable for a one-unit change in the regressor, while holding all other regressors constant.
 In a simple linear regression model, where you have one dependent variable (Y) and one independent variable (X), the regression coefficient is typically denoted as "β" and is estimated using the least squares method. The regression equation takes the form:
 
-Y = β<sub>0</sub> + β<sub>1</sub>x + ε
+        Y = β<sub>0</sub> + β<sub>1</sub>x + ε
 
 where:
 
