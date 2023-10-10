@@ -1,5 +1,0 @@
-print("Name: Suchismita Bose")
-print("College: Techno Main Salt Lake")
-print("Degree: BTech in Computer Science and Business Systems")
-print("Address: 320, S. K. Bose Sarani, Kalindi, Kolkata- 700030.")
-print("Age: 19")
