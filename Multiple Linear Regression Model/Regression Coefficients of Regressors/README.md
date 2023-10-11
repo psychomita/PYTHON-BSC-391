@@ -7,15 +7,15 @@ In a simple linear regression model, where you have one dependent variable (Y) a
 
 where:
 
-Y is the dependent variable.
+    Y is the dependent variable.
 
-X is the independent variable.
+    X is the independent variable.
 
-β<sub>0</sub> is the intercept (the value of Y when X is 0).
+    β0 is the intercept (the value of Y when X is 0).
 
-β<sub>1</sub> is the regression coefficient of the independent variable X.
+    β1 is the regression coefficient of the independent variable X.
 
-ε represents the error term (the part of Y that the model cannot explain).
+    ε represents the error term (the part of Y that the model cannot explain).
 
 The coefficient β<sub>1</sub> measures the change in Y for a one-unit change in X. If β<sub>1</sub> is positive, it indicates a positive relationship between X and Y, meaning that as X increases, Y tends to increase. If β<sub>1</sub> is negative, it indicates a negative relationship, suggesting that as X increases, Y tends to decrease.
 
