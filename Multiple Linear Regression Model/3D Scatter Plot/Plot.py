@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 #Feeding data from .csv file
-df=pd.read_csv(r"C:\Users\suchi\OneDrive\Desktop\Plot\table.csv")
+df=pd.read_csv(r"C:\Users\suchi\OneDrive\Desktop\Plot\table.csv") #implement the data in a .csv file and paste your own file path here
 print(df)
 
 #Creating a 3D Scatter Plot
